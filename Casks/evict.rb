@@ -1,6 +1,6 @@
 cask "evict" do
-  version "0.1.0"
-  sha256 "15ecbaea289dcacfd5431825b4e99e813f2ed32b87b36e52dd26dd005260415d"
+  version "0.2.0"
+  sha256 "bad651d011cb5d78ac3db63d759942f85dda100f708483063dcb39665d75ba75"
 
   url "https://github.com/zaiinehaniel/evict/releases/download/v#{version}/Evict.zip"
   name "Evict"
